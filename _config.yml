@@ -1,6 +1,6 @@
 name: The Stubborn Hakimi
 favicon: null
-layout_spectrum: 0.21
+layout_spectrum: 0.9182
 typography_spectrum: 0.07205
 title: The Stubborn Hakimi
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#0c0a0b'
-    - '#ebad3c'
-    - '#b5110f'
-    - '#b45b01'
-  brandStrength: 0.25
-  lightness: 0.5864912495017052
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+    - '#e1d8d1'
+    - '#000000'
+    - '#5a5268'
+    - '#85828b'
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
